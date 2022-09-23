@@ -1,5 +1,5 @@
 numpy==1.16.4
-protobuf==3.9.0
+protobuf==3.18.3
 PyNDN==2.10b1
 cryptography>=2.7
 plyvel>=1.1.0
